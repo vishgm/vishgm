@@ -1,7 +1,9 @@
 Hi 👋 My name is Vishak
 =======================
 
-My core interests are in the field of Data Science and Software development In my free time, I create complex pipelines using Milk, sugar and coffee powder ;)
+My core interests are in the field of Data Science and Software development
+
+In my free time, I create complex pipelines using Milk, sugar and coffee powder ;)
 
 * ✉️  You can contact me at [gvishak20@gmail.com](mailto:gvishak20@gmail.com)
 * ⚡  Loves football and constantly juggles any random item within my reach ;)
