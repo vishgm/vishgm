@@ -6,7 +6,7 @@ My core interests are in the field of Data Science and Software development
 In my free time, I create complex pipelines using Milk, sugar and coffee powder ;)
 
 * ✉️  You can contact me at [gvishak20@gmail.com](mailto:gvishak20@gmail.com)
-* ⚡  Loves football and constantly juggles any random item within my reach ;)
+* ⚡  Football is :heartpulse: and i constantly juggle any random item within my reach ;)
 
 <a href="https://www.github.com/RepoMan20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RepoMan20?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
