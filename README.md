@@ -11,7 +11,7 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 ![](https://komarev.com/ghpvc/?username=RepoMan20&color=green)
 
 
-### Skills
+### Tech Skills
 ---
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -38,7 +38,6 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 <a href="https://www.linkedin.com/in/vishak-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
----
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/RepoMan20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RepoMan20&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
