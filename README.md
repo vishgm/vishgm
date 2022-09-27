@@ -8,7 +8,7 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 * ✉️  You can contact me at [gvishak20@gmail.com](mailto:gvishak20@gmail.com)
 * ⚡  Football is :heartpulse: and i constantly juggle any random item within my reach ;)
 
-![](https://komarev.com/ghpvc/?username=RepoMan20)
+![](https://komarev.com/ghpvc/?username=RepoMan20&brightgreen)
 
 <a href="https://www.github.com/RepoMan20" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/RepoMan20?logo=github&style=for-the-badge&color=ffffff&labelColor=1c1917" /></a>
