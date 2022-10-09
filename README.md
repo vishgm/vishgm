@@ -8,7 +8,7 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 * ⚡  Football is :heartpulse: and i constantly juggle any random item within my reach ;)
 * ✉️  [gvishak20@gmail.com](mailto:gvishak20@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=RepoMan20&color=green)
+![](https://komarev.com/ghpvc/?username=vishgk&color=green)
 
 
 ### Tech Skills
@@ -40,6 +40,6 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 ### Badges
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/RepoMan20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RepoMan20&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/RepoMan20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishgk&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/RepoMan20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RepoMan20&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/RepoMan20" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishgk&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
