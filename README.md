@@ -23,11 +23,6 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.tensorflow.org" rel="nofollow"><img src="https://camo.githubusercontent.com/b861b92581ad5a7b81147073d729eda727f71985d72f3dd198e0afd792a6f9de/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f74656e736f72666c6f772f74656e736f72666c6f772d69636f6e2e737667" alt="tensorflow" width="36" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg">
-</a>
-<a href="https://scikit-learn.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/69ce21304adac467a8251181f98932e1785abd9d718cdd8edc78d1abbf2dcb49/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f302f30352f5363696b69745f6c6561726e5f6c6f676f5f736d616c6c2e737667" alt="scikit_learn" width="36" height="36" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"></a>
-<a href="https://pytorch.org/" rel="nofollow"><img src="https://camo.githubusercontent.com/c895dcc921b7591d8133f091d69bce4de301c6834af8a201d6a25237c80524cf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667" alt="pytorch" width="36" height="36" data-canonical-src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a>
-
 </p>
 
 
@@ -36,10 +31,3 @@ In my free time, I create complex pipelines using Milk, sugar and coffee powder 
 <p align="left"> 
 <a href="https://discord.com/users/RepoMan2k" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/vishak-g" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/vishgm"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vishgm&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/vishgm" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishgm&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
