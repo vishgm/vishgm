@@ -6,7 +6,6 @@ My core interests are in the field of Data Science and Software development
 In my free time, I create complex pipelines using Milk, sugar and coffee powder ;)
 
 * ⚡  Football is :heartpulse: and i constantly juggle any random item within my reach ;)
-* ✉️  [gvishak20@gmail.com](mailto:gvishak20@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=vishgm&color=green)
 
